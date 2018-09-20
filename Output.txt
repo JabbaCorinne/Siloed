@@ -1,0 +1,8 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=62472:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/corinnejabba1/Desktop/Siloed2/out/production/Siloed2 Main
+
+There is a total of 183032.19 cubic meters of water available in the water towers in the town.
+The citizens of the town would use an average of 259264.33 cubic meters of water in 28 days.
+Each person will need to save 0.072331995 cubic meters of water per day.
+This is equivalent to 19.108087722897533 gallons of water per day.
+
+Process finished with exit code 0
